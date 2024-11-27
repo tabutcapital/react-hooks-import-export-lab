@@ -1,4 +1,25 @@
+// import React from "react";
+// import Home from "./Home";
+// import About from "./About";
+// import NavBar from "./NavBar";
+
+// function App() {
+//   return (
+//     <div>
+//       <NavBar />
+//       <Home />
+//       <About />
+//     </div>
+//   );
+// }
+
+// export default App;
+
+
 import React from "react";
+import Home from "./Home";
+import About from "./About";
+import NavBar from "./NavBar";
 
 function App() {
   return (
@@ -10,4 +31,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; // Default export
